@@ -52,3 +52,23 @@ VGG19-Mask-Prediction/
   - Dense layer with Softmax (2 classes)
 - Optimizer: **Adam**
 - Loss Function: **Categorical Crossentropy**
+  ## 📦 Dataset
+Due to GitHub file size limitations, the datasets are **not uploaded to this repository**.
+
+This project uses **two datasets**:
+
+- 🔗 **Training Dataset**:  
+  https://drive.google.com/drive/folders/1ITAsNudC03S5I2sOMfl_YujoZ_TZ24uK
+
+- 🔗 **Testing Dataset**:  
+  https://drive.google.com/drive/folders/1by21bHauktDylbgmLz3OzhAZ4KVSk13S
+
+After downloading, place the datasets in the following structure:
+
+Maskdata/
+├── with_mask/
+└── without_mask/
+
+Maskdatatest/
+├── with_mask/
+└── without_mask/
