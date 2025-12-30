@@ -52,6 +52,8 @@ VGG19-Mask-Prediction/
   - Dense layer with Softmax (2 classes)
 - Optimizer: **Adam**
 - Loss Function: **Categorical Crossentropy**
+
+  
   ## 📦 Dataset
 Due to GitHub file size limitations, the datasets are **not uploaded to this repository**.
 
